@@ -8,7 +8,7 @@ The `HybridVehicle` class implements both interfaces and provides methods to cal
 - Electric MPGe
 - Hybrid average MPG
 
-JUnit tests are included to verify correctness.
+JUnit tests are included to verify the code's correctness.
 
 ## Project Structure
 c/ → main code
